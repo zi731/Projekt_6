@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Studia\\Projekty\\Projekt_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC2ADE0-D69C-42F8-A21E-EA6A7BE5F352}|Projekt_6\\Projekt_6.vcxproj|D:\\Studia\\Projekty\\Projekt_6\\Projekt_6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8DC2ADE0-D69C-42F8-A21E-EA6A7BE5F352}|Projekt_6\\Projekt_6.vcxproj|solutionrelative:Projekt_6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DC2ADE0-D69C-42F8-A21E-EA6A7BE5F352}|Projekt_6\\Projekt_6.vcxproj|D:\\Studia\\Projekty\\Projekt_6\\Projekt_6\\Chart Export.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DC2ADE0-D69C-42F8-A21E-EA6A7BE5F352}|Projekt_6\\Projekt_6.vcxproj|solutionrelative:Projekt_6\\Chart Export.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "string",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string",
+              "RelativeDocumentMoniker": "..\\..\\..\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string",
+              "ToolTip": "D:\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string",
+              "RelativeToolTip": "..\\..\\..\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\string",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAuwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-23T14:08:14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Studia\\Projekty\\Projekt_6\\Projekt_6\\main.cpp",
+              "RelativeDocumentMoniker": "Projekt_6\\main.cpp",
+              "ToolTip": "D:\\Studia\\Projekty\\Projekt_6\\Projekt_6\\main.cpp",
+              "RelativeToolTip": "Projekt_6\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-23T13:25:50.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chart Export.csv",
+              "DocumentMoniker": "D:\\Studia\\Projekty\\Projekt_6\\Projekt_6\\Chart Export.csv",
+              "RelativeDocumentMoniker": "Projekt_6\\Chart Export.csv",
+              "ToolTip": "D:\\Studia\\Projekty\\Projekt_6\\Projekt_6\\Chart Export.csv",
+              "RelativeToolTip": "Projekt_6\\Chart Export.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-01-23T13:47:50.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
